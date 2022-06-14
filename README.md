@@ -1,4 +1,4 @@
-# FR-5
+#Project Face Recognition
 import tkinter as tk
 from tkinter import *
 import cv2
